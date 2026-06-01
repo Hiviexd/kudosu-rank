@@ -7,8 +7,8 @@
 // @match        http://osu.ppy.sh/users/*
 // @match        https://osu.ppy.sh/users/*
 // @grant        none
-// @downloadURL  https://github.com/Hiviexd/kudosu-rank/raw/main/script.user.js
-// @updateURL    https://github.com/Hiviexd/kudosu-rank/raw/main/script.user.js
+// @downloadURL  https://github.com/Hiviexd/kudosu-rank/raw/master/script.user.js
+// @updateURL    https://github.com/Hiviexd/kudosu-rank/raw/master/script.user.js
 // ==/UserScript==
 
 (function () {
